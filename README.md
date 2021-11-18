@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lobo1121
+- 👀 I’m interested in to create a video game
+- 🌱 I’m currently learning C#
